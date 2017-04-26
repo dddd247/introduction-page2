@@ -24,6 +24,16 @@ html.body{
 	overflow-y: hidden;
 }
 
+/*特色英文字定位*/
+p.feature{
+		   position: absolute;
+		   color: black;
+		   font-size: 3.12em;
+		   font-family: ;
+		   top: 6.7%;
+		   left: 64.56%;
+		   letter-spacing: 0.15454em;
+		}
 /*iphone圖片*/
 #top{
 	position:absolute;
